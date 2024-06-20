@@ -3,7 +3,7 @@
 ---
 
 ## Задание 1
-### Устанавливаем ВМ спомощью Vagrant-файла, регистрируем и запускаем Runner
+### Устанавливаем ВМ спомощью Vagrant-файла, регистрируем и запускаем Runner:
 
 <img src = "img/git01.png" width = 100%>
 
@@ -11,7 +11,7 @@
 
 ## Задание 2
 
-### Клонируем репозиторий с GitHub и пушим его к себе, в локальный GitLab
+### Клонируем репозиторий с GitHub и пушим его к себе, в локальный GitLab:
 
 <img src = "img/git02.png" width = 100%>
 
@@ -26,11 +26,13 @@ git push dedyurindn
 
 ### Настраиваем pipeline и запускаем:
 <img src = "img/git03.png" width = 100%>
+
+### Файл .gitlab-ci.yml
+<img src = "img/git06.png" width = 100%>
 <img src = "img/git04.png" width = 100%>
 
 ### Результаты сборки:
 <img src = "img/git05.png" width = 100%>
-
 
 
 ---
