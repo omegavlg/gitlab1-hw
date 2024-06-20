@@ -15,6 +15,7 @@
 
 <img src = "img/git02.png" width = 100%>
 
+### Команды:
 ```
 git clone https://github.com/netology-code/sdvps-materials.git dedyurind
 cd dedyurindn/
@@ -22,9 +23,7 @@ git remote -v
 git remote add dedyurindn http://gitlab.localdomain/netology/dedyurindn.git
 git push dedyurindn
 ```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+### 
 
 
 ---
