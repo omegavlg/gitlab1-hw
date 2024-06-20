@@ -25,6 +25,10 @@ git push dedyurindn
 ```
 ### 
 
+<img src = "img/git03.png" width = 100%>
+
+<img src = "img/git04.png" width = 100%>
+
 
 ---
 
